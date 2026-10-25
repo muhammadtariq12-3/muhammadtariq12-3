@@ -1,8 +1,8 @@
-# 👋 Hello, My Name Is Muhammad Tariq
+
 
 <h1 align="center">Muhammad Tariq</h1>
 
-<h3 align="center">Software Engineering | MERN Stack Developer | UI Designer</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hello%2C+My+Name+Is+Muhammad+Tariq;Software+Engineering+Enthusiast;MERN+Stack+Developer;UI+Designer;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
